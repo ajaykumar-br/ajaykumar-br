@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on DSA, and couple of websites<br>👯 I’m looking to collaborate on websites using technologies like NextJS, Typescript, etc<br>🌱 I’m currently learning extensively about Redux, Typescript, etc.<br>💬 Ask me about Web Technologies, and Machine/Deep Learning.<br>⚡ Fun fact, I also do a bit of deep learning stuff, I have built models around images like Brain tumor using CNN, data of diabetes using ANN, and data of spam mails using LSTM and RNN.
 
-
-## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kumar-br) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ajay__sama) 
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -43,4 +40,20 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
+</p>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/Ajay-Kumar-BR" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="75" /></a>
+<a href="https://twitter.com/ajay__sama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="75" /></a> 
+<a href="https://discordapp.com/users/ajaysama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="75" /></a>
+  
 </p>
