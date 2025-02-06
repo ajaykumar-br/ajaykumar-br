@@ -10,7 +10,7 @@
 
 - 📫 Feel free to reach me out **brajaykumar13@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [ajaysama](https://discordapp.com/users/ajaysama) my username!
 <!--Intro end-->
 <hr>
 <!--- stats & Trophy (start) -->
