@@ -1,6 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA, and couple of websites<br>👯 I’m looking to collaborate on websites using technologies like NextJS, Typescript, etc<br>🌱 I’m currently learning extensively about Redux, Typescript, etc.<br>💬 Ask me about Web Technologies, and Machine/Deep Learning.<br>⚡ Fun fact, I also do a bit of deep learning stuff, I have built models around images like Brain tumor using CNN, data of diabetes using ANN, and data of spam mails using LSTM and RNN.
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, React, ExpressJS, MongoDB, PostgresSQL, NextJS, turboRepo**
 
+- 🌱 I’m currently learning **about system design, and AI agents.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 💬 Ask me about **AWS, React, ExpressJS, MongoDB, PostgresSQL, NextJS, turboRepo**
+
+- 📫 Feel free to reach me out **brajaykumar13@gmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<!--Intro end-->
+<hr>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -52,8 +64,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/Ajay-Kumar-BR" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="75" /></a>
-<a href="https://twitter.com/ajay__sama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="75" /></a> 
-<a href="https://discordapp.com/users/ajaysama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="75" /></a>
+<a href="https://www.linkedin.com/in/Ajay-Kumar-BR" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="75" width="75" /></a>
+<a href="https://twitter.com/ajay__sama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="75" width="75" /></a> 
+<a href="https://discordapp.com/users/ajaysama" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="75" width="75" /></a>
   
 </p>
