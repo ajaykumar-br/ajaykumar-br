@@ -1,10 +1,10 @@
 # 💫 About Me:
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, ExpressJS, MongoDB, PostgresSQL, NextJS, turboRepo**
+- 🔭 I’m currently working on projects using **AWS, React, ExpressJS, PostgresSQL, NextJS, turboRepo**
 
-- 🌱 I’m currently learning **about system design, and AI agents.**
+- 🌱 I’m currently learning **about system design, and DL/AI.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing.
 
 - 💬 Ask me about **AWS, React, ExpressJS, MongoDB, PostgresSQL, NextJS, turboRepo**
 
@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,express,redis,git,github,html,js,linux,md,nginx,mongodb,mysql,nextjs,nodejs,postman,postgre,python,react,recoil,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
